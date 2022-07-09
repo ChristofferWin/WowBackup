@@ -1,4 +1,4 @@
-# WowBackup ![Wow Classic](https://github.com/ChristofferWin/WowBackup/blob/main/WowClassicSmall.jpg) 
+# WowBackup ![Wow Classic](https://github.com/ChristofferWin/WowBackup/blob/main/WowClassicIcon2Small.png) 
 A small Powershell framework used to backup all user specific configuration files releated to Wow classic
 
 ## How to get started using the solution
