@@ -5,6 +5,7 @@ A small Powershell framework used to backup all user specific configuration file
 1. For <b>Windows 10</b> and <b>Windows 11</b>
 2. Requires <b>.NET framework 4.8</b> -> <a href="https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-determine-which-versions-are-installed">Check .NET version</a>
 3. The user running the solution <b>must</b> be a local administrator, eg. Guest user accounts are not supported
+4. Only intented for use to backup Wow Classic files
 ## How to get started using the solution
 1. Clone the repository
     1. For Windows security reasons put the repo in a user directory
