@@ -7,7 +7,7 @@
   </RegistrationInfo>
   <Triggers>
     <CalendarTrigger>
-      <StartBoundary>2022-07-11T23:55:00</StartBoundary>
+      <StartBoundary>2022-07-14T03:47:00</StartBoundary>
       <Enabled>true</Enabled>
       <ScheduleByDay>
         <DaysInterval>1</DaysInterval>
@@ -42,7 +42,7 @@
   <Actions Context="Author">
     <Exec>
       <Command>powershell</Command>
-      <Arguments>-WindowStyle Hidden -File "C:\WowBackup\Modules\WowBackupAutomaticDeployment.ps1"</Arguments>
+      <Arguments>-WindowStyle Hidden -File "C:\Users\chris\WowBackup\Modules\WowBackupAutomaticDeployment.ps1"</Arguments>
     </Exec>
   </Actions>
 </Task>
